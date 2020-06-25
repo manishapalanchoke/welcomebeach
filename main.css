@@ -1,0 +1,94 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+	font-family: Arial;
+}
+h1{
+	color: #926239;
+	font-size: 50px;
+	padding-left: 500px;
+}
+p{
+	color:#a86239;
+	font-size:20px;
+	padding-left: 500px;
+}
+.first{
+	background-color:#926239;
+	color: white;
+	padding:30px;
+	position: relative;
+	font-size: 17px;
+}
+.second{
+	background-color:#f4f4f4;
+	color: #926239;
+	padding: 20px;
+	font-size: 17px;
+}
+.one{
+	float: left;
+	background-color:#926239;
+	color: white;
+	padding: 20px;
+	height: 50px;
+	width: 590px;
+	vertical-align: middle;
+	font-size: 17px;
+}
+.two{
+	float: left;
+	background-color:#f9f9f9;
+	color: #926239;
+	padding: 20px;
+	height: 50px;
+	width: 590px;
+	vertical-align: middle;
+	font-size: 17px;
+}
+.three{
+	float: left;
+	background-color:#926239;
+	color: white;
+	padding: 20px;
+	height: 50px;
+	width: 590px;
+	vertical-align: middle ;
+	font-size: 17px;
+}
+.center{
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	bottom: 50%;
+	transform: (-50%, -50%);
+}
+.read{
+	border: 1px solid #926239;
+	padding: 10px 20px;
+	position: absolute;
+	top: 60%;
+	bottom: 40%;
+	margin: -115px;
+	height: 20px;
+	margin-top: 20px;
+	width: 100px;
+	font-size: 18px;
+	border-radius: 5px;
+}
+a{
+	text-decoration: none;
+	color: #926239;
+}
+
+a:hover{
+	color: white;
+	background-color: #926239;
+}
+.button{
+	padding-left: 150px;
+}
+.banner{
+	position: relative;
+}
